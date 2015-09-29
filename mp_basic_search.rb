@@ -17,7 +17,7 @@ describe 'search' do
 		@driver.find_element(id: 'search-box').send_keys('Wedding')
 		@driver.find_element(id: 'search-btn').click
 		#assertion
-		#@driver.find_element(: '').displayed?.should be_true
+		#@driver.find_element(: 'asdf').displayed?.should be_true
 
 
 
