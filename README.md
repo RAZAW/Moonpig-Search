@@ -1,6 +1,14 @@
-# hello-world
-start-up, set up notes, documentation and et cetera.
+# instructions
+The tests are written in Ruby and use Selenium-Webdriver to autommate the browser. Test runner is Rspec. 
 
-Hey, I'm Waqas. I test software for it's quality and love what I do. I love to learn and apply new things!
+Please install the above to be able to run these tests.
+
+I've used Sublime Text as the IDE. When running, use 'rspec' followed by the name of the test file.
+
+I've used inline comments within the test code explaining the steps where necessary.
+
+Thanks.
+
+
 
 <!-- just a line of comment -->
